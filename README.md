@@ -1,6 +1,6 @@
-# Backend para Simple Enrollment System - Practica MERN
+# Backend for Simple Enrollment System - Practice MERN
   
-  [Servidor](https://simple-enrollment-system-11.herokuapp.com/)
+  [Server](https://simple-enrollment-system-11.herokuapp.com/)
 
 ## Environment Variables
 
